@@ -34,4 +34,3 @@ El script imprime cada parte (palabra, significado, cada oración) justo antes d
 - No repitas la misma palabra dos veces seguidas si puedes evitarlo.
 - Si el usuario dice "otra por favor" o similar, vuelve a correr `bash play_vocab.sh`.
 - Requiere: entorno virtual `~/tts-env` con piper-tts instalado, modelos `en_US-lessac-high` y `es_MX-claude-high` en `~/piper-voices/`, y en `~/.codex/config.toml` (si se usa desde Codex): `writable_roots = ["/mnt/c/Users/LENOVO"]` y `network_access = true` bajo `[sandbox_workspace_write]`.
-# holas
