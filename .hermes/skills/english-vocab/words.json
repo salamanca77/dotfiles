@@ -1,0 +1,3106 @@
+[
+  {
+    "word": "deploy",
+    "meanings": [
+      "desplegar",
+      "poner en marcha",
+      "implementar"
+    ],
+    "examples": [
+      "We deploy the app every Friday.",
+      "They deployed troops to the region.",
+      "The team will deploy the new update tonight."
+    ]
+  },
+  {
+    "word": "leverage",
+    "meanings": [
+      "aprovechar",
+      "apalancar",
+      "sacar ventaja de"
+    ],
+    "examples": [
+      "We leverage n8n to automate workflows.",
+      "She leveraged her network to find a job.",
+      "You can leverage this data to improve sales."
+    ]
+  },
+  {
+    "word": "bottleneck",
+    "meanings": [
+      "cuello de botella",
+      "obstáculo",
+      "punto de congestión"
+    ],
+    "examples": [
+      "The database is the bottleneck here.",
+      "Traffic created a bottleneck on the highway.",
+      "Slow reviews are the bottleneck in our process."
+    ]
+  },
+  {
+    "word": "commit",
+    "meanings": [
+      "commitear",
+      "comprometerse",
+      "realizar"
+    ],
+    "examples": [
+      "I will commit the changes to the repository.",
+      "She committed to the project for the long term.",
+      "Don't commit secrets to the codebase."
+    ]
+  },
+  {
+    "word": "Dashboard",
+    "meanings": [
+      "tablero de instrumentos",
+      "panel de control",
+      "cuadro de mando"
+    ],
+    "examples": [
+      "The admin dashboard displays real-time analytics.",
+      "We added a new widget to the user dashboard.",
+      "Load the dashboard components lazily for better performance."
+    ]
+  },
+  {
+    "word": "Resource",
+    "meanings": [
+      "recurso",
+      "medio",
+      "recurso disponible"
+    ],
+    "examples": [
+      "The API resource represents a user entity.",
+      "Memory is a scarce resource on embedded devices.",
+      "Protect the resource with proper authentication middleware."
+    ]
+  },
+  {
+    "word": "Fillable",
+    "meanings": [
+      "rellenable",
+      "editable",
+      "modificable"
+    ],
+    "examples": [
+      "Define the fillable fields in the form model.",
+      "Only fillable attributes should be mass-assigned.",
+      "The PDF contains fillable form fields."
+    ]
+  },
+  {
+    "word": "Latest",
+    "meanings": [
+      "último",
+      "más reciente",
+      "el más nuevo"
+    ],
+    "examples": [
+      "Pull the latest changes from the remote repository.",
+      "We support the latest version of the framework.",
+      "The latest build fixed several critical bugs."
+    ]
+  },
+  {
+    "word": "Merge",
+    "meanings": [
+      "fusionar",
+      "combinar",
+      "mezclar"
+    ],
+    "examples": [
+      "Merge the feature branch into main.",
+      "The merge conflict needs manual resolution.",
+      "We merge pull requests after passing CI checks."
+    ]
+  },
+  {
+    "word": "Switch",
+    "meanings": [
+      "cambiar",
+      "interruptor",
+      "alternar"
+    ],
+    "examples": [
+      "Switch between tabs to navigate sections.",
+      "Use a switch statement for multiple conditions.",
+      "Toggle the switch to enable dark mode."
+    ]
+  },
+  {
+    "word": "Mount",
+    "meanings": [
+      "montar",
+      "montaje",
+      "adjuntar"
+    ],
+    "examples": [
+      "Mount the filesystem at /mnt/data.",
+      "Mount the component into the DOM root.",
+      "The disk is mounted automatically on boot."
+    ]
+  },
+  {
+    "word": "Faker",
+    "meanings": [
+      "generador de datos falsos",
+      "mock de datos",
+      "biblioteca de datos sintéticos"
+    ],
+    "examples": [
+      "Use Faker to generate test user data.",
+      "The faker library produces realistic fake addresses.",
+      "Seed the database with faker for development purposes."
+    ]
+  },
+  {
+    "word": "Storage",
+    "meanings": [
+      "almacenamiento",
+      "repositorio",
+      "macenamiento de datos"
+    ],
+    "examples": [
+      "Persist the token in local storage.",
+      "Cloud storage providers offer scalable solutions.",
+      "The application uses key-value storage for caching."
+    ]
+  },
+  {
+    "word": "Provider",
+    "meanings": [
+      "proveedor",
+      "proveedor de servicios",
+      "suministrador"
+    ],
+    "examples": [
+      "Register the service provider in the container.",
+      "The auth provider handles OAuth2 flows.",
+      "Switch payment providers without changing the interface."
+    ]
+  },
+  {
+    "word": "Keyboard",
+    "meanings": [
+      "teclado",
+      "teclado de entrada",
+      "interfaz de teclado"
+    ],
+    "examples": [
+      "Listen for keyboard events on the document.",
+      "Implement keyboard navigation for accessibility.",
+      "The virtual keyboard appears on mobile devices."
+    ]
+  },
+  {
+    "word": "Shortcuts",
+    "meanings": [
+      "atajos de teclado",
+      "accesos directos",
+      "combinaciones de teclas"
+    ],
+    "examples": [
+      "Define keyboard shortcuts for common actions.",
+      "Ctrl+S is a universal shortcut for saving.",
+      "Users can customize shortcuts in the settings panel."
+    ]
+  },
+  {
+    "word": "Finish",
+    "meanings": [
+      "finalizar",
+      "completar",
+      "terminar"
+    ],
+    "examples": [
+      "Finish the build process before deploying.",
+      "The task finishes when all promises resolve.",
+      "Run the finish hook after the migration completes."
+    ]
+  },
+  {
+    "word": "Gradle",
+    "meanings": [
+      "herramienta de construcción",
+      "sistema de build",
+      "automatizador de compilación"
+    ],
+    "examples": [
+      "Run ./gradlew build to compile the project.",
+      "Configure dependencies in the build.gradle file.",
+      "Gradle handles incremental builds efficiently."
+    ]
+  },
+  {
+    "word": "Billing",
+    "meanings": [
+      "facturación",
+      "cobro",
+      "sistema de cobros"
+    ],
+    "examples": [
+      "The billing cycle runs monthly.",
+      "Update the billing information in your account.",
+      "Integrate Stripe for subscription billing."
+    ]
+  },
+  {
+    "word": "Trust",
+    "meanings": [
+      "confianza",
+      "certificado de confianza",
+      "depósito de confianza"
+    ],
+    "examples": [
+      "The certificate authority establishes trust.",
+      "Add the root CA to the trust store.",
+      "Mutual TLS verifies trust between client and server."
+    ]
+  },
+  {
+    "word": "Belongs to",
+    "meanings": [
+      "pertenecer a",
+      "relación uno a muchos",
+      "asociación"
+    ],
+    "examples": [
+      "A comment belongs to a post in the database schema.",
+      "Define the belongsTo relationship in the model.",
+      "Each order belongs to a specific customer."
+    ]
+  },
+  {
+    "word": "Nullable",
+    "meanings": [
+      "nullable",
+      "admite nulos",
+      "puede ser nulo"
+    ],
+    "examples": [
+      "Make the column nullable to allow empty values.",
+      "The nullable type permits null in the type system.",
+      "Set nullable to false for required fields."
+    ]
+  },
+  {
+    "word": "Constraint",
+    "meanings": [
+      "restricción",
+      "limitación",
+      "condición de integridad"
+    ],
+    "examples": [
+      "Add a unique constraint on the email column.",
+      "Foreign key constraints enforce referential integrity.",
+      "Check constraints validate data at the database level."
+    ]
+  },
+  {
+    "word": "Able",
+    "meanings": [
+      "capaz",
+      "habilitado",
+      "con capacidad de"
+    ],
+    "examples": [
+      "The service is able to handle concurrent requests.",
+      "Make sure the user is able to access the resource.",
+      "The framework is able to serialize objects to JSON."
+    ]
+  },
+  {
+    "word": "morphs",
+    "meanings": [
+      "transforma",
+      "muta"
+    ],
+    "examples": [
+      "The CSS animation morphs the element from a circle to a square.",
+      "The data structure morphs based on user input type.",
+      "This function morphs the API response into our internal format."
+    ]
+  },
+  {
+    "word": "rollback",
+    "meanings": [
+      "revertir",
+      "deshacer cambios"
+    ],
+    "examples": [
+      "We need to rollback to the previous version after the failed deployment.",
+      "The database supports atomic rollback on transaction failure.",
+      "Git allows you to rollback commits with a single command."
+    ]
+  },
+  {
+    "word": "find",
+    "meanings": [
+      "buscar",
+      "encontrar"
+    ],
+    "examples": [
+      "Use the find method to locate an element in the array.",
+      "The search algorithm finds the shortest path between nodes.",
+      "You can find duplicate entries using a hash map."
+    ]
+  },
+  {
+    "word": "attach",
+    "meanings": [
+      "adjuntar",
+      "vincular"
+    ],
+    "examples": [
+      "Attach the event listener to the button element.",
+      "Attach the debugger to the running process.",
+      "You can attach metadata to the request headers."
+    ]
+  },
+  {
+    "word": "detach",
+    "meanings": [
+      "desvincular",
+      "separar"
+    ],
+    "examples": [
+      "Detach the event listener to prevent memory leaks.",
+      "Detach the debugger before restarting the server.",
+      "The module can be safely detached from the main application."
+    ]
+  },
+  {
+    "word": "reviews",
+    "meanings": [
+      "revisiones",
+      "revisión de código"
+    ],
+    "examples": [
+      "All pull requests require two approvals in code reviews.",
+      "Automated reviews catch style violations before merging.",
+      "The QA team performs reviews before each release."
+    ]
+  },
+  {
+    "word": "goals",
+    "meanings": [
+      "objetivos",
+      "metas"
+    ],
+    "examples": [
+      "Define clear sprint goals before starting development.",
+      "Our performance goals require reducing load time to under 2 seconds.",
+      "Meeting accessibility goals ensures compliance with WCAG standards."
+    ]
+  },
+  {
+    "word": "watch",
+    "meanings": [
+      "observar",
+      "vigilar cambios"
+    ],
+    "examples": [
+      "Use the watch mode to rebuild on file changes.",
+      "Watch the console for runtime errors during testing.",
+      "The file watcher monitors changes in the source directory."
+    ]
+  },
+  {
+    "word": "Getting started",
+    "meanings": [
+      "primeros pasos",
+      "introductorio"
+    ],
+    "examples": [
+      "The getting started guide walks you through initial setup.",
+      "Check the getting started section in the documentation.",
+      "Follow the getting started tutorial to install dependencies."
+    ]
+  },
+  {
+    "word": "query",
+    "meanings": [
+      "consulta",
+      "buscar datos"
+    ],
+    "examples": [
+      "Optimize the SQL query to reduce database load.",
+      "GraphQL lets you query only the fields you need.",
+      "The API query returns a paginated list of results."
+    ]
+  },
+  {
+    "word": "put",
+    "meanings": [
+      "colocar",
+      "actualizar recurso"
+    ],
+    "examples": [
+      "The PUT method updates an existing resource on the server.",
+      "Put the configuration file in the root directory.",
+      "Use put to insert a key-value pair into the map."
+    ]
+  },
+  {
+    "word": "ready",
+    "meanings": [
+      "listo",
+      "preparado"
+    ],
+    "examples": [
+      "Ensure the server is ready before running integration tests.",
+      "The DOM ready event signals the page is fully loaded.",
+      "The application is ready for production deployment."
+    ]
+  },
+  {
+    "word": "engine",
+    "meanings": [
+      "motor",
+      "motor de renderizado"
+    ],
+    "examples": [
+      "The JavaScript engine executes the client-side code.",
+      "V8 is the rendering engine behind Chrome and Node.js.",
+      "The search engine indexes documents for fast retrieval."
+    ]
+  },
+  {
+    "word": "holder",
+    "meanings": [
+      "contenedor",
+      "poseedor"
+    ],
+    "examples": [
+      "The token holder has read access to the resource.",
+      "Use a reference holder to manage object lifecycles.",
+      "The lock holder must release the mutex before timeout."
+    ]
+  },
+  {
+    "word": "fake",
+    "meanings": [
+      "falso",
+      "simular"
+    ],
+    "examples": [
+      "Use fake data for testing without exposing real user information.",
+      "The mock server returns fake responses during development.",
+      "Fake timers allow you to test time-dependent code."
+    ]
+  },
+  {
+    "word": "await",
+    "meanings": [
+      "esperar",
+      "aguardar resultado"
+    ],
+    "examples": [
+      "Use await to pause execution until the promise resolves.",
+      "The function must be declared async to use await.",
+      "Await the database connection before executing queries."
+    ]
+  },
+  {
+    "word": "release",
+    "meanings": [
+      "lanzar",
+      "publicar versión"
+    ],
+    "examples": [
+      "Tag the commit before you release to production.",
+      "The new release includes critical security patches.",
+      "Automate the release process with CI/CD pipelines."
+    ]
+  },
+  {
+    "word": "as soon as",
+    "meanings": [
+      "tan pronto como",
+      "en cuanto"
+    ],
+    "examples": [
+      "Send the notification as soon as the deployment completes.",
+      "The server restarts as soon as the config file changes.",
+      "Process the queue item as soon as it becomes available."
+    ]
+  },
+  {
+    "word": "add event Listener",
+    "meanings": [
+      "agregar escuchador de eventos",
+      "registrar manejador"
+    ],
+    "examples": [
+      "Call addEventListener to bind a click handler to the button.",
+      "Remember to remove event listeners to prevent memory leaks.",
+      "Use addEventListener with the capture phase for early interception."
+    ]
+  },
+  {
+    "word": "refused",
+    "meanings": [
+      "rechazado",
+      "denegado"
+    ],
+    "examples": [
+      "The connection was refused because the server is down.",
+      "The pull request was refused due to failing tests.",
+      "A permission denied error means access was refused by the system."
+    ]
+  },
+  {
+    "word": "safer",
+    "meanings": [
+      "más seguro",
+      "más confiable"
+    ],
+    "examples": [
+      "Use structured cloning for safer deep copies of objects.",
+      "Sanitizing input makes the application safer against XSS.",
+      "TypeScript provides safer type checking than JavaScript."
+    ]
+  },
+  {
+    "word": "guarded",
+    "meanings": [
+      "protegido",
+      "resguardado"
+    ],
+    "examples": [
+      "The API endpoint is guarded by authentication middleware.",
+      "Guarded routes prevent unauthorized access to admin panels.",
+      "The shared resource is guarded by a mutex lock."
+    ]
+  },
+  {
+    "word": "weight",
+    "meanings": [
+      "peso",
+      "ponderación"
+    ],
+    "examples": [
+      "Assign higher weight to more recent commits in the ranking algorithm.",
+      "The font-weight property controls text boldness in CSS.",
+      "Network latency adds weight to the response time metric."
+    ]
+  },
+  {
+    "word": "shell",
+    "meanings": [
+      "terminal",
+      "intérprete de comandos"
+    ],
+    "examples": [
+      "Run the build script from the terminal shell.",
+      "Bash is the default shell on most Linux distributions.",
+      "The shell executes commands and returns the output."
+    ]
+  },
+  {
+    "word": "again",
+    "meanings": [
+      "otra vez",
+      "nuevamente"
+    ],
+    "examples": [
+      "Retry the request again after a brief delay.",
+      "Reload the page again if the assets fail to load.",
+      "Run the tests again to confirm the fix works."
+    ]
+  },
+  {
+    "word": "feed",
+    "meanings": [
+      "alimentar",
+      "fuente de datos"
+    ],
+    "examples": [
+      "Feed the input data into the processing pipeline.",
+      "The RSS feed delivers updates to subscribed clients.",
+      "New records are fed into the search index in real time."
+    ]
+  },
+  {
+    "word": "carriage",
+    "meanings": [
+      "retorno de carro",
+      "transporte"
+    ],
+    "examples": [
+      "The carriage return character moves the cursor to the beginning of the line.",
+      "\\r represents a carriage return in escape sequences.",
+      "Line endings differ between Windows carriage return and Unix line feed."
+    ]
+  },
+  {
+    "word": "such",
+    "meanings": [
+      "tal",
+      "como tal"
+    ],
+    "examples": [
+      "Avoid using nested loops and such performance-heavy patterns.",
+      "Such edge cases should be covered by unit tests.",
+      "Use constants for such repeated values throughout the codebase."
+    ]
+  },
+  {
+    "word": "stage",
+    "meanings": [
+      "etapa",
+      "ambiente de pruebas"
+    ],
+    "examples": [
+      "Deploy to the staging environment for QA testing.",
+      "The build process has separate stages for compile, test, and package.",
+      "Code in this stage is not yet ready for production."
+    ]
+  },
+  {
+    "word": "yet",
+    "meanings": [
+      "aún",
+      "todavía no"
+    ],
+    "examples": [
+      "The bug has not been fixed yet.",
+      "Check if the resource exists yet before proceeding.",
+      "The feature is not yet available in the current release."
+    ]
+  },
+  {
+    "word": "branch",
+    "meanings": [
+      "rama",
+      "sucursal"
+    ],
+    "examples": [
+      "Create a new branch to work on the feature.",
+      "The branch diverged from main last week.",
+      "I'll merge the branch after the review."
+    ]
+  },
+  {
+    "word": "fork",
+    "meanings": [
+      "bifurcar",
+      "bifurcación"
+    ],
+    "examples": [
+      "I forked the repository to add my changes.",
+      "The project was forked from an upstream repo.",
+      "You can fork this repo and submit a pull request."
+    ]
+  },
+  {
+    "word": "Untracked",
+    "meanings": [
+      "sin seguimiento",
+      "no rastreado"
+    ],
+    "examples": [
+      "Git shows untracked files in red.",
+      "Add untracked files before committing.",
+      "The new config file is untracked by git."
+    ]
+  },
+  {
+    "word": "tracked",
+    "meanings": [
+      "rastreado",
+      "seguido"
+    ],
+    "examples": [
+      "Only tracked files appear in git status.",
+      "This file has been tracked since the initial commit.",
+      "Tracked branches sync with the remote automatically."
+    ]
+  },
+  {
+    "word": "what will be",
+    "meanings": [
+      "lo que será",
+      "lo que va a ser"
+    ],
+    "examples": [
+      "Review what will be committed before pushing.",
+      "Check what will be included in the next release.",
+      "See what will be changed in the diff output."
+    ]
+  },
+  {
+    "word": "staging",
+    "meanings": [
+      "preparación",
+      "área de preparación"
+    ],
+    "examples": [
+      "Stage your changes before committing.",
+      "The staging area holds files for the next commit.",
+      "Use git add to move files to staging."
+    ]
+  },
+  {
+    "word": "to update what will be committed",
+    "meanings": [
+      "actualizar lo que se va a commitear",
+      "actualizar lo que será commiteado"
+    ],
+    "examples": [
+      "Run git add to update what will be committed.",
+      "You need to update what will be committed after edits.",
+      "This command updates what will be committed in the next snapshot."
+    ]
+  },
+  {
+    "word": "to include in what will be committed",
+    "meanings": [
+      "incluir en lo que se va a commitear",
+      "incluir en lo que será commiteado"
+    ],
+    "examples": [
+      "Add the file to include in what will be committed.",
+      "Select files to include in what will be committed.",
+      "Use git add to include in what will be committed."
+    ]
+  },
+  {
+    "word": "push",
+    "meanings": [
+      "enviar",
+      "subir"
+    ],
+    "examples": [
+      "Push your changes to the remote repository.",
+      "I need to push this branch before deploying.",
+      "Push the commit to update the remote."
+    ]
+  },
+  {
+    "word": "stream",
+    "meanings": [
+      "flujo",
+      "transmisión en vivo"
+    ],
+    "examples": [
+      "The build output streams to the console.",
+      "We stream logs from the production server.",
+      "The event stream updates in real time."
+    ]
+  },
+  {
+    "word": "Changes not staged for commit",
+    "meanings": [
+      "Cambios no preparados para commit",
+      "Cambios sin preparar para commit"
+    ],
+    "examples": [
+      "Git shows changes not staged for commit in red.",
+      "Stage the modified files to resolve changes not staged for commit.",
+      "The diff output lists changes not staged for commit."
+    ]
+  },
+  {
+    "word": "detached",
+    "meanings": [
+      "desconectado",
+      "aislado"
+    ],
+    "examples": [
+      "The HEAD is in detached state after checkout.",
+      "In detached mode, commits won't belong to any branch.",
+      "You're in a detached HEAD state—create a branch to save changes."
+    ]
+  },
+  {
+    "word": "pull request",
+    "meanings": [
+      "solicitud de extracción",
+      "petición de fusión"
+    ],
+    "examples": [
+      "Open a pull request to merge your feature branch.",
+      "Review the pull request before approving.",
+      "The pull request has merge conflicts that need resolving."
+    ]
+  },
+  {
+    "word": "dropped",
+    "meanings": [
+      "descartado",
+      "eliminado"
+    ],
+    "examples": [
+      "The commit was dropped from the history.",
+      "Staged changes were dropped after reset.",
+      "Dropped files are no longer tracked."
+    ]
+  },
+  {
+    "word": "drop",
+    "meanings": [
+      "descartar",
+      "eliminar"
+    ],
+    "examples": [
+      "Drop the changes and start over.",
+      "You can drop a commit from the branch.",
+      "Drop the file from staging area."
+    ]
+  },
+  {
+    "word": "reject",
+    "meanings": [
+      "rechazar",
+      "rechazo"
+    ],
+    "examples": [
+      "The push was rejected by the server.",
+      "The merge was rejected due to conflicts.",
+      "The hook rejected the commit message."
+    ]
+  },
+  {
+    "word": "fetch",
+    "meanings": [
+      "obtener",
+      "descargar"
+    ],
+    "examples": [
+      "Fetch the latest changes from the remote.",
+      "Run fetch to update remote tracking branches.",
+      "The fetch command downloads new data without merging."
+    ]
+  },
+  {
+    "word": "reflow",
+    "meanings": [
+      "reajustar",
+      "reflujo"
+    ],
+    "examples": [
+      "The editor reflows text when resizing the window.",
+      "CSS reflow can cause performance issues.",
+      "The layout reflows to fit the new content."
+    ]
+  },
+  {
+    "word": "toggle",
+    "meanings": [
+      "alternar",
+      "interruptor"
+    ],
+    "examples": [
+      "Click the button to toggle dark mode.",
+      "Use the keyboard shortcut to toggle the terminal.",
+      "Toggle between split and unified diff view."
+    ]
+  },
+  {
+    "word": "append",
+    "meanings": [
+      "añadir",
+      "agregar al final"
+    ],
+    "examples": [
+      "Append the new configuration to the file.",
+      "The script appends data to the log.",
+      "Use >> to append output instead of overwriting."
+    ]
+  },
+  {
+    "word": "Let's see",
+    "meanings": [
+      "Veamos",
+      "A ver"
+    ],
+    "examples": [
+      "Let's see the current git status.",
+      "Let's see what changed in this commit.",
+      "Let's see if the build passes."
+    ]
+  },
+  {
+    "word": "underscores",
+    "meanings": [
+      "guiones bajos",
+      "subrayados"
+    ],
+    "examples": [
+      "Use underscores instead of spaces in variable names.",
+      "The filename contains double underscores.",
+      "Replace spaces with underscores in the URL."
+    ]
+  },
+  {
+    "word": "several",
+    "meanings": [
+      "varios",
+      "algunos"
+    ],
+    "examples": [
+      "Several commits need to be squashed.",
+      "There are several failing tests in the suite.",
+      "I have several branches to clean up."
+    ]
+  },
+  {
+    "word": "few",
+    "meanings": [
+      "pocos",
+      "unos pocos"
+    ],
+    "examples": [
+      "Only a few files were modified.",
+      "Fix the remaining few issues before release.",
+      "A few dependencies need updating."
+    ]
+  },
+  {
+    "word": "floor",
+    "meanings": [
+      "suelo",
+      "piso"
+    ],
+    "examples": [
+      "The floor of the function returns the lowest value.",
+      "Math.floor rounds down to the nearest integer.",
+      "The error rate is below the floor threshold."
+    ]
+  },
+  {
+    "word": "touch",
+    "meanings": [
+      "tocar",
+      "modificar"
+    ],
+    "examples": [
+      "Touch the file to update its timestamp.",
+      "Don't touch the config unless necessary.",
+      "Touch a file to mark it as modified."
+    ]
+  },
+  {
+    "word": "resolve",
+    "meanings": [
+      "resolver",
+      "solucionar"
+    ],
+    "examples": [
+      "Resolve the merge conflicts before committing.",
+      "The DNS failed to resolve the hostname.",
+      "We need to resolve these open issues."
+    ]
+  },
+  {
+    "word": "behind",
+    "meanings": [
+      "retrasado",
+      "detrás"
+    ],
+    "examples": [
+      "Your branch is behind the remote by 3 commits.",
+      "The local repo is behind the upstream.",
+      "Pull to get the commits you're behind on."
+    ]
+  },
+  {
+    "word": "forwarded",
+    "meanings": [
+      "reenviado",
+      "adelantado"
+    ],
+    "examples": [
+      "The request was forwarded to the API server.",
+      "Port forwarding redirects traffic to the container.",
+      "The email was forwarded to the team."
+    ]
+  },
+  {
+    "word": "hoisting",
+    "meanings": [
+      "elevación",
+      "izado"
+    ],
+    "examples": [
+      "JavaScript hoists variable declarations to the top of scope.",
+      "Hoisting allows functions to be called before declaration.",
+      "Understanding hoisting prevents common JS bugs."
+    ]
+  },
+  {
+    "word": "everything",
+    "meanings": [
+      "todo",
+      "cada cosa"
+    ],
+    "examples": [
+      "Everything in the codebase needs to be tested.",
+      "The migration script handles everything automatically.",
+      "Check everything before deploying to production."
+    ]
+  },
+  {
+    "word": "everything up-to-date",
+    "meanings": [
+      "todo actualizado",
+      "todo al día"
+    ],
+    "examples": [
+      "Run npm update to keep everything up-to-date.",
+      "Make sure everything up-to-date before the release.",
+      "The CI pipeline ensures dependencies are everything up-to-date."
+    ]
+  },
+  {
+    "word": "sweet",
+    "meanings": [
+      "agradable",
+      "excelente"
+    ],
+    "examples": [
+      "That's a sweet solution to the bug.",
+      "The API response format is really sweet.",
+      "We got a sweet performance boost from the refactor."
+    ]
+  },
+  {
+    "word": "patiently",
+    "meanings": [
+      "pacientemente",
+      "con paciencia"
+    ],
+    "examples": [
+      "Wait patiently for the build to complete.",
+      "The server is patiently handling incoming requests.",
+      "Patiently debug the race condition in the thread pool."
+    ]
+  },
+  {
+    "word": "heaven",
+    "meanings": [
+      "cielo",
+      "paraíso"
+    ],
+    "examples": [
+      "The new IDE feels like developer heaven.",
+      "Finding a well-documented API is heaven.",
+      "Clean code is heaven for maintenance."
+    ]
+  },
+  {
+    "word": "lost",
+    "meanings": [
+      "perdido",
+      "extraviado"
+    ],
+    "examples": [
+      "The connection was lost during the transfer.",
+      "I'm lost in this legacy codebase.",
+      "Lost packets caused the API timeout."
+    ]
+  },
+  {
+    "word": "along",
+    "meanings": [
+      "a lo largo de",
+      "junto a"
+    ],
+    "examples": [
+      "Walk along the dependency chain to find the root cause.",
+      "Comment along the code for clarity.",
+      "Move along the pipeline to the next stage."
+    ]
+  },
+  {
+    "word": "way",
+    "meanings": [
+      "camino",
+      "manera"
+    ],
+    "examples": [
+      "This is the right way to handle errors.",
+      "Find a way to optimize the query.",
+      "There's no easy way around this constraint."
+    ]
+  },
+  {
+    "word": "brighter",
+    "meanings": [
+      "más brillante",
+      "más luminoso"
+    ],
+    "examples": [
+      "The UI theme looks brighter in dark mode.",
+      "A brighter future for the project with microservices.",
+      "Use brighter colors for better accessibility contrast."
+    ]
+  },
+  {
+    "word": "Lord",
+    "meanings": [
+      "Señor",
+      "Dios"
+    ],
+    "examples": [
+      "Lord of the Rings inspired the variable naming.",
+      "Oh Lord, another merge conflict.",
+      "Reference the documentation like it's scripture."
+    ]
+  },
+  {
+    "word": "lay",
+    "meanings": [
+      "colocar",
+      "poner"
+    ],
+    "examples": [
+      "Lay out the component structure clearly.",
+      "Lay the groundwork for the new architecture.",
+      "Lay down the coding standards for the team."
+    ]
+  },
+  {
+    "word": "as",
+    "meanings": [
+      "como",
+      "mientras"
+    ],
+    "examples": [
+      "Use as a fallback option.",
+      "As the server scales, so does the load.",
+      "Deploy as soon as the tests pass."
+    ]
+  },
+  {
+    "word": "shining",
+    "meanings": [
+      "brillante",
+      "reluciente"
+    ],
+    "examples": [
+      "The shining example of clean architecture.",
+      "A shining star in the open source community.",
+      "The shining feature of this release is performance."
+    ]
+  },
+  {
+    "word": "told",
+    "meanings": [
+      "dijo",
+      "contó"
+    ],
+    "examples": [
+      "The log told us exactly what went wrong.",
+      "The error message told the user to retry.",
+      "I told the team about the security vulnerability."
+    ]
+  },
+  {
+    "word": "wanted",
+    "meanings": [
+      "querido",
+      "deseado"
+    ],
+    "examples": [
+      "The wanted feature is now in production.",
+      "She wanted to refactor the authentication module.",
+      "We wanted better test coverage on the API."
+    ]
+  },
+  {
+    "word": "say",
+    "meanings": [
+      "decir",
+      "afirmar"
+    ],
+    "examples": [
+      "The documentation says to use HTTPS.",
+      "What does the error log say?",
+      "Say the commit message out loud to check clarity."
+    ]
+  },
+  {
+    "word": "too",
+    "meanings": [
+      "también",
+      "demasiado"
+    ],
+    "examples": [
+      "This module is too tightly coupled.",
+      "We need to handle timeouts too.",
+      "The response payload is too large."
+    ]
+  },
+  {
+    "word": "late",
+    "meanings": [
+      "tarde",
+      "atrasado"
+    ],
+    "examples": [
+      "The build is running late today.",
+      "It's too late to change the database schema.",
+      "Don't commit late-night code without review."
+    ]
+  },
+  {
+    "word": "hold",
+    "meanings": [
+      "mantener",
+      "sostener"
+    ],
+    "examples": [
+      "Hold the deployment until QA signs off.",
+      "The connection pool holds 100 connections.",
+      "Hold this branch while I fix the conflict."
+    ]
+  },
+  {
+    "word": "flown",
+    "meanings": [
+      "volado",
+      "pasado"
+    ],
+    "examples": [
+      "The time for the deadline has already flown.",
+      "Data has flown through the ETL pipeline.",
+      "The release window has flown by."
+    ]
+  },
+  {
+    "word": "without",
+    "meanings": [
+      "sin",
+      "desprovisto de"
+    ],
+    "examples": [
+      "Deploy without breaking the API contract.",
+      "Run the tests without mocking external services.",
+      "Ship without documentation is a risk."
+    ]
+  },
+  {
+    "word": "smile",
+    "meanings": [
+      "sonrisa",
+      "sonreír"
+    ],
+    "examples": [
+      "The code review made me smile.",
+      "A clean deploy will put a smile on your face.",
+      "The team smiled when the tests finally passed."
+    ]
+  },
+  {
+    "word": "cause",
+    "meanings": [
+      "causa",
+      "causar"
+    ],
+    "examples": [
+      "Identify the root cause of the memory leak.",
+      "A null reference can cause runtime errors.",
+      "What caused the deployment to fail?"
+    ]
+  },
+  {
+    "word": "HEAR",
+    "meanings": [
+      "escuchar",
+      "oír"
+    ],
+    "examples": [
+      "The webhook should hear for incoming events.",
+      "We need to hear feedback from users.",
+      "The system hears signals from the message queue."
+    ]
+  },
+  {
+    "word": "keeps",
+    "meanings": [
+      "mantiene",
+      "guarda"
+    ],
+    "examples": [
+      "The cache keeps frequently accessed data.",
+      "Linting keeps the codebase consistent.",
+      "This function keeps the state updated."
+    ]
+  },
+  {
+    "word": "alive",
+    "meanings": [
+      "vivo",
+      "activo"
+    ],
+    "examples": [
+      "Keep the server alive with health checks.",
+      "The legacy system is still alive in production.",
+      "Make sure the process stays alive during scaling."
+    ]
+  },
+  {
+    "word": "assumed",
+    "meanings": [
+      "asumió",
+      "presumido"
+    ],
+    "examples": [
+      "We assumed the API was backward compatible.",
+      "Don't assume the input is always valid.",
+      "The assumption was incorrect and caused a bug."
+    ]
+  },
+  {
+    "word": "took",
+    "meanings": [
+      "tomó",
+      "llevó"
+    ],
+    "examples": [
+      "The refactor took three sprints.",
+      "He took ownership of the authentication module.",
+      "The migration took longer than expected."
+    ]
+  },
+  {
+    "word": "grant",
+    "meanings": [
+      "conceder",
+      "beca"
+    ],
+    "examples": [
+      "Grant the necessary permissions to the service account.",
+      "The team received a grant for open source work.",
+      "Grant access only to authorized users."
+    ]
+  },
+  {
+    "word": "cared",
+    "meanings": [
+      "importó",
+      "se preocupó"
+    ],
+    "examples": [
+      "Nobody cared about code quality until the outage.",
+      "She cared deeply about test coverage.",
+      "The client cared about response time more than features."
+    ]
+  },
+  {
+    "word": "although",
+    "meanings": [
+      "aunque",
+      "si bien"
+    ],
+    "examples": [
+      "Although the API returns 200, the payload may be empty.",
+      "We refactored the module, although tests were not updated.",
+      "Although it compiles, it fails at runtime."
+    ]
+  },
+  {
+    "word": "pray",
+    "meanings": [
+      "rezar",
+      "rogar"
+    ],
+    "examples": [
+      "We pray the database migration doesn't fail.",
+      "I pray this legacy code never needs modification.",
+      "Pray the CI pipeline passes on the first run."
+    ]
+  },
+  {
+    "word": "dreams",
+    "meanings": [
+      "sueños",
+      "deseos"
+    ],
+    "examples": [
+      "Every developer dreams of zero technical debt.",
+      "The architect's dreams of microservices were crushed by the deadline.",
+      "We dream of a world with no merge conflicts."
+    ]
+  },
+  {
+    "word": "alibis",
+    "meanings": [
+      "coartadas",
+      "excusas"
+    ],
+    "examples": [
+      "The logs provide an alibi for the server crash.",
+      "We need more than alibis to debug this race condition.",
+      "His alibi for the broken build didn't hold up."
+    ]
+  },
+  {
+    "word": "through",
+    "meanings": [
+      "a través de",
+      "mediante"
+    ],
+    "examples": [
+      "The request flows through the middleware chain.",
+      "We got through the entire sprint without blockers.",
+      "Through proper caching, latency dropped 80%."
+    ]
+  },
+  {
+    "word": "soon",
+    "meanings": [
+      "pronto",
+      "en breve"
+    ],
+    "examples": [
+      "The fix will ship soon in the next patch.",
+      "Soon we will deprecate the v1 endpoint.",
+      "Soon the new framework will replace the monolith."
+    ]
+  },
+  {
+    "word": "gone",
+    "meanings": [
+      "desaparecido",
+      "ido"
+    ],
+    "examples": [
+      "The deprecated function is finally gone from the codebase.",
+      "All memory leaks are gone after the fix.",
+      "The old server is gone; migration is complete."
+    ]
+  },
+  {
+    "word": "stays",
+    "meanings": [
+      "permanece",
+      "queda"
+    ],
+    "examples": [
+      "The session stays alive for 30 minutes.",
+      "This value stays constant across all environments.",
+      "The bug stays open until we verify the fix."
+    ]
+  },
+  {
+    "word": "same",
+    "meanings": [
+      "mismo",
+      "idéntico"
+    ],
+    "examples": [
+      "Both services return the same JSON schema.",
+      "We used the same branch for hotfixes.",
+      "The same error occurs in production and staging."
+    ]
+  },
+  {
+    "word": "nights",
+    "meanings": [
+      "noches",
+      "jornadas nocturnas"
+    ],
+    "examples": [
+      "The on-call engineer covers weekend nights.",
+      "Late nights debugging are a rite of passage.",
+      "The cron job runs on weeknights at 2 AM."
+    ]
+  },
+  {
+    "word": "Someday",
+    "meanings": [
+      "algún día",
+      "un día de estos"
+    ],
+    "examples": [
+      "Someday we'll rewrite this in Rust.",
+      "Maybe someday we'll have full test coverage.",
+      "Someday this codebase will be maintainable."
+    ]
+  },
+  {
+    "word": "forget",
+    "meanings": [
+      "olvidar",
+      "pasar por alto"
+    ],
+    "examples": [
+      "Don't forget to commit your changes.",
+      "We forgot to update the environment variables.",
+      "Never forget to handle edge cases."
+    ]
+  },
+  {
+    "word": "heart",
+    "meanings": [
+      "corazón",
+      "núcleo"
+    ],
+    "examples": [
+      "The event loop is the heart of Node.js.",
+      "The database is the heart of the application.",
+      "At the heart of this issue is a race condition."
+    ]
+  },
+  {
+    "word": "anticipating",
+    "meanings": [
+      "anticipando",
+      "preveyendo"
+    ],
+    "examples": [
+      "We're anticipating a spike in traffic after launch.",
+      "Anticipating failures leads to resilient systems.",
+      "We're anticipating changes to the spec."
+    ]
+  },
+  {
+    "word": "losing",
+    "meanings": [
+      "perdiendo",
+      "sufriendo pérdidas"
+    ],
+    "examples": [
+      "The server is losing connections under load.",
+      "We're losing data due to the silent exception.",
+      "Without caching, we're losing precious milliseconds."
+    ]
+  },
+  {
+    "word": "best",
+    "meanings": [
+      "mejor",
+      "óptimo"
+    ],
+    "examples": [
+      "Best practice is to validate input at the boundary.",
+      "The best approach is to mock external services.",
+      "Code review is the best defense against bugs."
+    ]
+  },
+  {
+    "word": "though",
+    "meanings": [
+      "aunque",
+      "sin embargo"
+    ],
+    "examples": [
+      "It works, though it's not production-ready.",
+      "The test passes, though coverage is low.",
+      "Slow query, though the result is correct."
+    ]
+  },
+  {
+    "word": "saying",
+    "meanings": [
+      "diciendo",
+      "afirmando"
+    ],
+    "examples": [
+      "The linter is saying there's an unused import.",
+      "The docs are saying to use async/await here.",
+      "The error log keeps saying connection refused."
+    ]
+  },
+  {
+    "word": "hurts",
+    "meanings": [
+      "duele",
+      "perjudica"
+    ],
+    "examples": [
+      "N+1 queries hurt performance significantly.",
+      "Technical debt hurts developer velocity.",
+      "A hard reset hurts; backing up data first is wise."
+    ]
+  },
+  {
+    "word": "well",
+    "meanings": [
+      "bien",
+      "pozo"
+    ],
+    "examples": [
+      "The API works well under moderate load.",
+      "Variables are well-scoped in this module.",
+      "The well-known pattern reduced cognitive load."
+    ]
+  },
+  {
+    "word": "altogether",
+    "meanings": [
+      "totalmente",
+      "en conjunto"
+    ],
+    "examples": [
+      "We removed the feature altogether.",
+      "The architecture changed altogether after the refactor.",
+      "They are altogether different approaches."
+    ]
+  },
+  {
+    "word": "Mighty",
+    "meanings": [
+      "poderoso",
+      "muy fuerte"
+    ],
+    "examples": [
+      "A mighty database cluster handles millions of QPS.",
+      "Kubernetes is a mighty orchestration tool.",
+      "The mighty regex broke on edge cases."
+    ]
+  },
+  {
+    "word": "frightening",
+    "meanings": [
+      "aterrador",
+      "escalofriante"
+    ],
+    "examples": [
+      "The magnitude of the data breach was frightening.",
+      "Running untested migrations to prod is frightening.",
+      "The memory usage graph is frankly frightening."
+    ]
+  },
+  {
+    "word": "some",
+    "meanings": [
+      "algunos",
+      "unos cuantos"
+    ],
+    "examples": [
+      "Some tests are flaky and need quarantine.",
+      "We need to address some technical debt.",
+      "Some environments have stricter CORS policies."
+    ]
+  },
+  {
+    "word": "both",
+    "meanings": [
+      "ambos",
+      "los dos"
+    ],
+    "examples": [
+      "Both branches have diverged significantly.",
+      "Both services must be deployed together.",
+      "Both frontend and backend need unit tests."
+    ]
+  },
+  {
+    "word": "hands",
+    "meanings": [
+      "manos",
+      "participación"
+    ],
+    "examples": [
+      "Getting hands dirty with the new framework.",
+      "Hands-on testing revealed edge cases.",
+      "The team put hands together for the code review."
+    ]
+  },
+  {
+    "word": "sit",
+    "meanings": [
+      "sentarse",
+      "estar situado"
+    ],
+    "examples": [
+      "The server sits behind a load balancer.",
+      "The cache sits in front of the database.",
+      "Let this PR sit for at least 24 hours."
+    ]
+  },
+  {
+    "word": "cry",
+    "meanings": [
+      "llorar",
+      "gritar"
+    ],
+    "examples": [
+      "The build system cries out for a rewrite.",
+      "Docker will cry if you mount a nonexistent path.",
+      "Developers cry when they see the legacy CSS."
+    ]
+  },
+  {
+    "word": "dying",
+    "meanings": [
+      "muriendo",
+      "desvaneciéndose"
+    ],
+    "examples": [
+      "The connection pool is dying under load.",
+      "The legacy service is slowly dying.",
+      "The process is dying every few minutes."
+    ]
+  },
+  {
+    "word": "hush",
+    "meanings": [
+      "silencio",
+      "callar"
+    ],
+    "examples": [
+      "Hush all noisy loggers in production.",
+      "A hush fell over the team during the outage.",
+      "Put the monitoring in hush mode during maintenance."
+    ]
+  },
+  {
+    "word": "darling",
+    "meanings": [
+      "querido/a (persona amada)",
+      "favorito/a (entre varios)"
+    ],
+    "examples": [
+      "This is my darling project that I've been working on for months.",
+      "The codebase is the darling of the entire engineering team.",
+      "She's the darling of the open-source community."
+    ]
+  },
+  {
+    "word": "anyway",
+    "meanings": [
+      "de todos modos",
+      "sin embargo"
+    ],
+    "examples": [
+      "The API failed, but we deployed the fix anyway.",
+      "I know it's late, but let's push the commit anyway.",
+      "The test broke anyway after the merge."
+    ]
+  },
+  {
+    "word": "goes",
+    "meanings": [
+      "va (movimiento o dirección)",
+      "funciona (en expresiones)"
+    ],
+    "examples": [
+      "The request goes through the load balancer first.",
+      "As the saying goes, 'premature optimization is root of all evil.'",
+      "Data goes from the database to the cache layer."
+    ]
+  },
+  {
+    "word": "any",
+    "meanings": [
+      "cualquier/a",
+      "alguno/a"
+    ],
+    "examples": [
+      "Any developer can submit a pull request.",
+      "Check if any tests are failing before merging.",
+      "We don't have any blockers for the release."
+    ]
+  },
+  {
+    "word": "knew",
+    "meanings": [
+      "sabía (conocimiento pasado)",
+      "conocía (a alguien)"
+    ],
+    "examples": [
+      "I knew the bug would appear in production.",
+      "She knew the API would change before the deadline.",
+      "He knew the codebase better than anyone."
+    ]
+  },
+  {
+    "word": "known",
+    "meanings": [
+      "conocido/a",
+      "sabido/a"
+    ],
+    "examples": [
+      "This is a known issue in the framework.",
+      "It's well known that React re-renders on state change.",
+      "The error is a known limitation of the library."
+    ]
+  },
+  {
+    "word": "survive",
+    "meanings": [
+      "sobrevivir",
+      "resistir (una carga o cambio)"
+    ],
+    "examples": [
+      "The server survived the traffic spike during Black Friday.",
+      "Our app must survive a single node failure.",
+      "Legacy code survives in many production systems."
+    ]
+  },
+  {
+    "word": "been",
+    "meanings": [
+      "estado (participio de be)",
+      "haber ido/venido"
+    ],
+    "examples": [
+      "I've been debugging this for hours.",
+      "The service has been down since midnight.",
+      "Have you been to the new staging environment?"
+    ]
+  },
+  {
+    "word": "have been",
+    "meanings": [
+      "han estado (present perfect)",
+      "han ido (acción pasada continua)"
+    ],
+    "examples": [
+      "We have been migrating the database for three days.",
+      "They have been working on this feature since January.",
+      "You have been running an outdated version."
+    ]
+  },
+  {
+    "word": "had been",
+    "meanings": [
+      "había estado (past perfect)",
+      "había ido"
+    ],
+    "examples": [
+      "The server had been running fine before the update.",
+      "I had been using the old API until it was deprecated.",
+      "She had been the lead developer before promotion."
+    ]
+  },
+  {
+    "word": "undo",
+    "meanings": [
+      "deshacer",
+      "revertir"
+    ],
+    "examples": [
+      "You can undo the last git commit with git reset.",
+      "The function allows you to undo database transactions.",
+      "Ctrl+Z will undo your last change in the editor."
+    ]
+  },
+  {
+    "word": "USED TO",
+    "meanings": [
+      "solía (hábito pasado)",
+      "estaba acostumbrado a"
+    ],
+    "examples": [
+      "I used to write vanilla JavaScript before discovering TypeScript.",
+      "We used to deploy manually before setting up CI/CD.",
+      "This endpoint used to return XML but now returns JSON."
+    ]
+  },
+  {
+    "word": "after",
+    "meanings": [
+      "después de",
+      "luego de"
+    ],
+    "examples": [
+      "Run the linter after writing your code.",
+      "After the refactor, performance improved by 40%.",
+      "Save your work after every major change."
+    ]
+  },
+  {
+    "word": "before",
+    "meanings": [
+      "antes de",
+      "previamente a"
+    ],
+    "examples": [
+      "Always review code before merging to main.",
+      "Back up your database before running migrations.",
+      "We discussed this before the sprint planning."
+    ]
+  },
+  {
+    "word": "begin",
+    "meanings": [
+      "empezar",
+      "iniciar"
+    ],
+    "examples": [
+      "Let's begin the code review session.",
+      "The build process begins with dependency installation.",
+      "You should begin writing tests before implementation."
+    ]
+  },
+  {
+    "word": "end",
+    "meanings": [
+      "final",
+      "terminar"
+    ],
+    "examples": [
+      "By the end of the sprint we delivered the feature.",
+      "The error occurs at the end of the JSON string.",
+      "Let's end the meeting with action items."
+    ]
+  },
+  {
+    "word": "prepend",
+    "meanings": [
+      "anteponer",
+      "añadir al inicio"
+    ],
+    "examples": [
+      "Use the slash to prepend the root path.",
+      "We prepend 'v' to version numbers in tags.",
+      "The function prepends a zero to single-digit numbers."
+    ]
+  },
+  {
+    "word": "Microsoft Ignite",
+    "meanings": [
+      "conferencia anual de Microsoft",
+      "evento tecnológico de Microsoft"
+    ],
+    "examples": [
+      "Azure AI features were announced at Microsoft Ignite.",
+      "We attended Microsoft Ignite to learn about new APIs.",
+      "The keynote at Microsoft Ignite covered Copilot updates."
+    ]
+  },
+  {
+    "word": "Of",
+    "meanings": [
+      "de (pertenencia o relación)",
+      "sobre (tema)"
+    ],
+    "examples": [
+      "The CEO of the company keynote was inspiring.",
+      "This is an example of proper error handling.",
+      "We need to think of edge cases in the design."
+    ]
+  },
+  {
+    "word": "saw",
+    "meanings": [
+      "vio (ver, pasado)",
+      "sierra (herramienta)"
+    ],
+    "examples": [
+      "I saw a critical bug in the staging environment.",
+      "We saw a 30% improvement after the optimization.",
+      "She saw the PR notification and reviewed it immediately."
+    ]
+  },
+  {
+    "word": "see",
+    "meanings": [
+      "ver",
+      "revisar"
+    ],
+    "examples": [
+      "See the documentation for detailed usage.",
+      "Let me see the logs to diagnose the issue.",
+      "You'll see the results after rebuilding the project."
+    ]
+  },
+  {
+    "word": "most",
+    "meanings": [
+      "la mayoría de",
+      "más (superlativo)"
+    ],
+    "examples": [
+      "Most developers prefer TypeScript for large projects.",
+      "This is the most efficient algorithm we have.",
+      "Most of the bugs come from unhandled edge cases."
+    ]
+  },
+  {
+    "word": "early",
+    "meanings": [
+      "temprano",
+      "anticipado"
+    ],
+    "examples": [
+      "We caught the bug in the early stages of development.",
+      "Early feedback from users shaped the product roadmap.",
+      "The early version of the API lacked authentication."
+    ]
+  },
+  {
+    "word": "still",
+    "meanings": [
+      "aún",
+      "todavía"
+    ],
+    "examples": [
+      "The issue is still open on GitHub.",
+      "We're still waiting for the deploy to finish.",
+      "This function is still in use despite being deprecated."
+    ]
+  },
+  {
+    "word": "miss",
+    "meanings": [
+      "perder",
+      "extrañar"
+    ],
+    "examples": [
+      "Don't miss the deadline for the pull request review.",
+      "I miss the old monolithic architecture.",
+      "We missed a critical edge case in testing."
+    ]
+  },
+  {
+    "word": "there will be",
+    "meanings": [
+      "habrá (futuro)",
+      "existirá"
+    ],
+    "examples": [
+      "There will be downtime during the migration window.",
+      "There will be a new release next week.",
+      "There will be breaking changes in the next version."
+    ]
+  },
+  {
+    "word": "fewer",
+    "meanings": [
+      "menos (cantidad menor)",
+      "menor número de"
+    ],
+    "examples": [
+      "We now have fewer dependencies after the refactor.",
+      "Fewer bugs were reported after the hotfix.",
+      "Write fewer, better tests rather than many weak ones."
+    ]
+  },
+  {
+    "word": "kept",
+    "meanings": [
+      "mantuvo (guardar, pasado)",
+      "conservó"
+    ],
+    "examples": [
+      "The team kept the legacy system running during migration.",
+      "I kept a backup of the original configuration.",
+      "They kept the API backward-compatible for existing clients."
+    ]
+  },
+  {
+    "word": "sell",
+    "meanings": [
+      "vender",
+      "ofrecer para la venta"
+    ],
+    "examples": [
+      "The company plans to sell the SaaS product internationally.",
+      "They sell premium licenses for enterprise features.",
+      "We need to sell the idea of refactoring to stakeholders."
+    ]
+  },
+  {
+    "word": "bought",
+    "meanings": [
+      "compró (comprar, pasado)",
+      "adquirió"
+    ],
+    "examples": [
+      "They bought the startup and integrated its technology.",
+      "I bought a new laptop for development.",
+      "The company bought a license for the proprietary library."
+    ]
+  },
+  {
+    "word": "borrow",
+    "meanings": [
+      "pedir prestado",
+      "tomar prestado"
+    ],
+    "examples": [
+      "We borrowed the design pattern from the Go community.",
+      "Can I borrow your API key for testing?",
+      "The framework borrows concepts from functional programming."
+    ]
+  },
+  {
+    "word": "Answered",
+    "meanings": [
+      "respondió",
+      "contestó"
+    ],
+    "examples": [
+      "The support team answered all user tickets before the weekend.",
+      "She answered questions during the live code review.",
+      "The issue was answered in the Stack Overflow thread."
+    ]
+  },
+  {
+    "word": "Advice",
+    "meanings": [
+      "consejo",
+      "recomendación"
+    ],
+    "examples": [
+      "The linter gave advice on improving code readability.",
+      "Follow the mentor's advice when refactoring legacy code.",
+      "The compiler warning is advice, not an error."
+    ]
+  },
+  {
+    "word": "Against",
+    "meanings": [
+      "contra",
+      "en oposición a"
+    ],
+    "examples": [
+      "This method compares the value against the threshold.",
+      "We test against multiple browser versions.",
+      "The firewall blocks requests against suspicious patterns."
+    ]
+  },
+  {
+    "word": "ain't no",
+    "meanings": [
+      "no es",
+      "no hay"
+    ],
+    "examples": [
+      "This code ain't gonna work without that dependency.",
+      "There ain't no simple solution to distributed consensus.",
+      "The server ain't responding to health checks."
+    ]
+  },
+  {
+    "word": "almost",
+    "meanings": [
+      "casi",
+      "por poco"
+    ],
+    "examples": [
+      "The build almost succeeded but failed on the last test.",
+      "This algorithm is almost O(n) but has a worst-case outlier.",
+      "The deployment almost went live before we caught the bug."
+    ]
+  },
+  {
+    "word": "Already",
+    "meanings": [
+      "ya",
+      "antes de ahora"
+    ],
+    "examples": [
+      "The module is already installed in the project.",
+      "We already migrated that endpoint to v2.",
+      "The PR was already merged when I checked."
+    ]
+  },
+  {
+    "word": "Answer",
+    "meanings": [
+      "respuesta",
+      "resolver"
+    ],
+    "examples": [
+      "The API returns the answer as a JSON payload.",
+      "We need to answer the customer's security audit question.",
+      "The function should answer with the correct HTTP status code."
+    ]
+  },
+  {
+    "word": "Asked",
+    "meanings": [
+      "preguntó",
+      "solicitó"
+    ],
+    "examples": [
+      "The user asked for a dark mode toggle.",
+      "The interviewer asked about my experience with CI/CD.",
+      "The client asked us to delay the release."
+    ]
+  },
+  {
+    "word": "available",
+    "meanings": [
+      "disponible",
+      "accesible"
+    ],
+    "examples": [
+      "The new feature is available in the latest release.",
+      "Check if the port is available before starting the server.",
+      "The dependency is available on npm."
+    ]
+  },
+  {
+    "word": "badly",
+    "meanings": [
+      "mal",
+      "severamente"
+    ],
+    "examples": [
+      "The codebase needs refactoring badly.",
+      "The service degraded badly under heavy load.",
+      "The test suite is badly documented."
+    ]
+  },
+  {
+    "word": "besides",
+    "meanings": [
+      "además",
+      "excepto"
+    ],
+    "examples": [
+      "Besides React, we also use Next.js for SSR.",
+      "Besides that edge case, the algorithm is correct.",
+      "Besides the API changes, the DB schema also migrated."
+    ]
+  },
+  {
+    "word": "bothering",
+    "meanings": [
+      "molestando",
+      "incomodando"
+    ],
+    "examples": [
+      "The deprecation warnings are bothering the dev team.",
+      "Is the memory leak bothering production performance?",
+      "Stop bothering the on-call engineer with non-critical alerts."
+    ]
+  },
+  {
+    "word": "bride",
+    "meanings": [
+      "novia",
+      "esposa"
+    ],
+    "examples": [
+      "The bride theme was applied to the wedding planner app.",
+      "The client's brand logo uses a bride icon.",
+      "We built a photo gallery for the bride's portfolio."
+    ]
+  },
+  {
+    "word": "Brief",
+    "meanings": [
+      "breve",
+      "resumen"
+    ],
+    "examples": [
+      "Give a brief summary of the sprint goals.",
+      "The release notes should be brief and clear.",
+      "A brief code review caught the security issue."
+    ]
+  },
+  {
+    "word": "Bright",
+    "meanings": [
+      "brillante",
+      "prometedor"
+    ],
+    "examples": [
+      "The future of WebAssembly looks bright.",
+      "Use bright colors for the accessibility theme.",
+      "A bright developer spotted the race condition early."
+    ]
+  },
+  {
+    "word": "brings",
+    "meanings": [
+      "trae",
+      "aporta"
+    ],
+    "examples": [
+      "The new version brings performance improvements.",
+      "This library brings type safety to API calls.",
+      "The update brings several breaking changes."
+    ]
+  },
+  {
+    "word": "brought",
+    "meanings": [
+      "trajo",
+      "implementó"
+    ],
+    "examples": [
+      "The refactor brought a 40% speed improvement.",
+      "She brought the project to production on time.",
+      "The merge conflict brought the CI pipeline to a halt."
+    ]
+  },
+  {
+    "word": "burned",
+    "meanings": [
+      "quemado",
+      "fraudado"
+    ],
+    "examples": [
+      "The API key was burned after the breach.",
+      "We got burned by the breaking change in v3.",
+      "The SSD was burned out from constant writes."
+    ]
+  },
+  {
+    "word": "Come closer",
+    "meanings": [
+      "acércate",
+      "aproxímate"
+    ],
+    "examples": [
+      "Come closer to the microphone for the demo recording.",
+      "Come closer to the screen to see the pixel-level detail.",
+      "Come closer to the codebase by reading the contribution guide."
+    ]
+  },
+  {
+    "word": "Dare",
+    "meanings": [
+      "atreverse",
+      "desafiar"
+    ],
+    "examples": [
+      "Few teams dare to rewrite the monolith from scratch.",
+      "I dare you to run the tests without mocking anything.",
+      "Don't dare push to main without a code review."
+    ]
+  },
+  {
+    "word": "dislike",
+    "meanings": [
+      "desagradar",
+      "rechazar"
+    ],
+    "examples": [
+      "Developers dislike unnecessary boilerplate code.",
+      "The team dislikes this framework due to poor DX.",
+      "Users dislike apps with too many permissions."
+    ]
+  },
+  {
+    "word": "doubt",
+    "meanings": [
+      "duda",
+      "incertidumbre"
+    ],
+    "examples": [
+      "There's no doubt that the API will return a 404 if the endpoint doesn't exist.",
+      "I doubt this regex will handle all edge cases correctly.",
+      "If you doubt the database connection, check the credentials in your .env file."
+    ]
+  },
+  {
+    "word": "Meaning",
+    "meanings": [
+      "significado",
+      "sentido"
+    ],
+    "examples": [
+      "Each variable name should have a clear meaning in the codebase.",
+      "The error message lacks meaning without proper context.",
+      "Semantic HTML gives real meaning to your page structure."
+    ]
+  },
+  {
+    "word": "enabled",
+    "meanings": [
+      "habilitado",
+      "activado"
+    ],
+    "examples": [
+      "Make sure the debug mode is enabled before running tests.",
+      "The feature flag is enabled for internal users only.",
+      "JavaScript is required and must be enabled in your browser."
+    ]
+  },
+  {
+    "word": "engaged",
+    "meanings": [
+      "comprometido",
+      "ocupado"
+    ],
+    "examples": [
+      "The worker thread is currently engaged in processing the queue.",
+      "The user engaged with the new onboarding flow after the redesign.",
+      "Keep users engaged by reducing load times below 200ms."
+    ]
+  },
+  {
+    "word": "entered",
+    "meanings": [
+      "ingresó",
+      "introducido"
+    ],
+    "examples": [
+      "The value entered by the user failed validation on the server side.",
+      "After entering the correct credentials, the session was created.",
+      "The cursor entered the viewport and triggered the lazy-load event."
+    ]
+  },
+  {
+    "word": "entire",
+    "meanings": [
+      "entero",
+      "completo"
+    ],
+    "examples": [
+      "Deploy the entire codebase, not just the modified modules.",
+      "The entire test suite should pass before merging the PR.",
+      "Clear the entire cache to resolve the stale data issue."
+    ]
+  },
+  {
+    "word": "even",
+    "meanings": [
+      "incluso",
+      "par"
+    ],
+    "examples": [
+      "Even a slow query can be optimized with proper indexing.",
+      "Check if the response status code is even divisible by 200.",
+      "The layout should work on even the smallest screen sizes."
+    ]
+  },
+  {
+    "word": "fair",
+    "meanings": [
+      "justo",
+      "razonable"
+    ],
+    "examples": [
+      "Round-robin load balancing distributes traffic in a fair manner.",
+      "A fair estimate for this sprint is around 40 story points.",
+      "The pricing model should be fair for all tiers of users."
+    ]
+  },
+  {
+    "word": "Fountain",
+    "meanings": [
+      "fuente",
+      "manantial"
+    ],
+    "examples": [
+      "The knowledge base serves as a fountain of documentation for new devs.",
+      "Configure the CI/CD pipeline as the fountain of automated deployments.",
+      "This library is a fountain of utility functions for string manipulation."
+    ]
+  },
+  {
+    "word": "Fear",
+    "meanings": [
+      "miedo",
+      "temor"
+    ],
+    "examples": [
+      "Fear of breaking changes keeps teams from upgrading dependencies.",
+      "Don't let fear of failure prevent you from refactoring legacy code.",
+      "Production fear is healthy — it encourages proper testing and rollbacks."
+    ]
+  },
+  {
+    "word": "For",
+    "meanings": [
+      "para",
+      "por"
+    ],
+    "examples": [
+      "Use a for loop to iterate over the array elements.",
+      "This configuration is intended for production environments only.",
+      "Apply for an API key before making requests to the service."
+    ]
+  },
+  {
+    "word": "Forwarding",
+    "meanings": [
+      "reenvío",
+      "reenviar"
+    ],
+    "examples": [
+      "Set up port forwarding on your router to access the local server.",
+      "The middleware handles request forwarding to downstream services.",
+      "Email forwarding rules help keep a single point of contact."
+    ]
+  },
+  {
+    "word": "greatest",
+    "meanings": [
+      "máximo",
+      "el más grande"
+    ],
+    "examples": [
+      "Find the greatest value in the dataset using Math.max().",
+      "The greatest challenge in this migration is data consistency.",
+      "Prioritize the tasks with the greatest impact first."
+    ]
+  },
+  {
+    "word": "greets",
+    "meanings": [
+      "saluda",
+      "da la bienvenida"
+    ],
+    "examples": [
+      "The landing page greets users with a personalized welcome message.",
+      "The CLI tool greets you with version info on first run.",
+      "A well-designed 404 page greets users before offering navigation options."
+    ]
+  },
+  {
+    "word": "Groom",
+    "meanings": [
+      "preparar",
+      "aceitar"
+    ],
+    "examples": [
+      "Use backlog grooming sessions to refine and prioritize user stories.",
+      "The team grooms the sprint backlog every Monday morning.",
+      "Regularly groom your dependencies to remove unused packages."
+    ]
+  },
+  {
+    "word": "has just",
+    "meanings": [
+      "acaba de",
+      "recién"
+    ],
+    "examples": [
+      "The deploy has just completed and the service should be live now.",
+      "The user has just submitted the form — validate the payload.",
+      "Node.js has just released a new LTS version with performance improvements."
+    ]
+  },
+  {
+    "word": "hopefully",
+    "meanings": [
+      "con suerte",
+      "se espera que"
+    ],
+    "examples": [
+      "Hopefully the hotfix resolves the memory leak in production.",
+      "Hopefully the database migration won't require downtime.",
+      "This PR should fix the issue — hopefully it passes CI on the first run."
+    ]
+  },
+  {
+    "word": "Huge",
+    "meanings": [
+      "enorme",
+      "gigante"
+    ],
+    "examples": [
+      "Refactoring the monolith into microservices is a huge undertaking.",
+      "The performance improvement from the new caching layer is huge.",
+      "This library has a huge community and excellent documentation."
+    ]
+  },
+  {
+    "word": "hugged",
+    "meanings": [
+      "abrazó",
+      "apretó"
+    ],
+    "examples": [
+      "The updated API hugged backward compatibility, so existing clients still work.",
+      "The code hugs the principle of least surprise in its design.",
+      "The framework hugged convention over configuration to reduce boilerplate."
+    ]
+  },
+  {
+    "word": "hung out",
+    "meanings": [
+      "colgó",
+      "pasó el rato"
+    ],
+    "examples": [
+      "The process hung out in a zombie state and never released resources.",
+      "The developer hung out in the code review channel answering questions.",
+      "The request hung out in the queue for 30 seconds before timing out."
+    ]
+  },
+  {
+    "word": "just like",
+    "meanings": [
+      "igual que",
+      "tal como"
+    ],
+    "examples": [
+      "This function works just like the previous version.",
+      "The syntax is just like regular JavaScript.",
+      "It behaves just like a native component."
+    ]
+  },
+  {
+    "word": "just try it",
+    "meanings": [
+      "solo intenta",
+      "pruébalo"
+    ],
+    "examples": [
+      "Just try it and see if the build passes.",
+      "Just try it before dismissing the approach.",
+      "Just try it—there's no risk to testing locally."
+    ]
+  },
+  {
+    "word": "Last month",
+    "meanings": [
+      "el mes pasado",
+      "el último mes"
+    ],
+    "examples": [
+      "We deployed the update last month.",
+      "Last month's sprint had five major tasks.",
+      "The bug was reported last month."
+    ]
+  },
+  {
+    "word": "lead",
+    "meanings": [
+      "liderar",
+      "plomo",
+      "conducir"
+    ],
+    "examples": [
+      "She will lead the migration effort.",
+      "This file is the entry point for the application.",
+      "You need to lead with the most critical error."
+    ]
+  },
+  {
+    "word": "least",
+    "meanings": [
+      "al menos",
+      "el menos",
+      "mínimo"
+    ],
+    "examples": [
+      "At least one test must pass.",
+      "This is the least complex solution.",
+      "We need at least three approvals."
+    ]
+  },
+  {
+    "word": "lending",
+    "meanings": [
+      "prestar",
+      "préstamo"
+    ],
+    "examples": [
+      "The API supports lending tokens between accounts.",
+      "This library is great for building lending platforms.",
+      "The lending protocol uses smart contracts."
+    ]
+  },
+  {
+    "word": "look after",
+    "meanings": [
+      "cuidar",
+      "encargarse de"
+    ],
+    "examples": [
+      "Look after the database migrations.",
+      "Who will look after the CI pipeline?",
+      "You need to look after your test coverage."
+    ]
+  },
+  {
+    "word": "Loud",
+    "meanings": [
+      "ruidoso",
+      "alto"
+    ],
+    "examples": [
+      "The logging level is set too loud.",
+      "Don't use loud console messages in production.",
+      "The error output is too loud and clutters the terminal."
+    ]
+  },
+  {
+    "word": "Nearly",
+    "meanings": [
+      "casi",
+      "aproximadamente"
+    ],
+    "examples": [
+      "The deployment nearly failed.",
+      "Nearly all tests are passing now.",
+      "We nearly hit the deadline."
+    ]
+  },
+  {
+    "word": "Of course",
+    "meanings": [
+      "por supuesto",
+      "claro"
+    ],
+    "examples": [
+      "Of course the API is backwards compatible.",
+      "Of course you can fork the repository.",
+      "Of course we handle null values."
+    ]
+  },
+  {
+    "word": "owe",
+    "meanings": [
+      "deber",
+      "estar en deuda"
+    ],
+    "examples": [
+      "We owe it to users to fix this bug.",
+      "This module owes its design to the factory pattern.",
+      "The team owes a refactor for the legacy code."
+    ]
+  },
+  {
+    "word": "perhaps",
+    "meanings": [
+      "quizás",
+      "tal vez"
+    ],
+    "examples": [
+      "Perhaps we should consider caching.",
+      "Perhaps this approach is too complex.",
+      "Perhaps we need a different algorithm."
+    ]
+  },
+  {
+    "word": "Pretty",
+    "meanings": [
+      "bastante",
+      "bonito",
+      "muy"
+    ],
+    "examples": [
+      "The code is pretty straightforward.",
+      "It's a pretty common pattern.",
+      "The performance is pretty good."
+    ]
+  },
+  {
+    "word": "Proper",
+    "meanings": [
+      "adecuado",
+      "correcto",
+      "apropiado"
+    ],
+    "examples": [
+      "We need to follow proper naming conventions.",
+      "Make sure you set up proper error handling.",
+      "Use proper indentation in your code."
+    ]
+  },
+  {
+    "word": "quietly",
+    "meanings": [
+      "silenciosamente",
+      "en silencio",
+      "sin hacer ruido"
+    ],
+    "examples": [
+      "The service failed quietly without logging.",
+      "It silently fails and quietly retries.",
+      "The process completed quietly in the background."
+    ]
+  },
+  {
+    "word": "Raffle",
+    "meanings": [
+      "rifar",
+      "sorteo"
+    ],
+    "examples": [
+      "We raffled off dev conference tickets.",
+      "The raffle winner gets a premium license.",
+      "Hold a raffle to boost community engagement."
+    ]
+  },
+  {
+    "word": "reachable",
+    "meanings": [
+      "alcanzable",
+      "accesible"
+    ],
+    "examples": [
+      "All endpoints must be reachable.",
+      "The node is no longer reachable.",
+      "Ensure the database is reachable from production."
+    ]
+  },
+  {
+    "word": "Really",
+    "meanings": [
+      "realmente",
+      "de verdad",
+      "muy"
+    ],
+    "examples": [
+      "This is really useful for debugging.",
+      "It really improves performance.",
+      "Do we really need this dependency?"
+    ]
+  },
+  {
+    "word": "Refute",
+    "meanings": [
+      "refutar",
+      "rebatir",
+      "desmentir"
+    ],
+    "examples": [
+      "We refuted the assumption with test data.",
+      "The logs refute the claim of zero downtime.",
+      "We need to refute this hypothesis before proceeding."
+    ]
+  },
+  {
+    "word": "Rid",
+    "meanings": [
+      "deshacerse de",
+      "liberarse de",
+      "eliminar"
+    ],
+    "examples": [
+      "We need to rid the codebase of legacy code.",
+      "Let's rid ourselves of unused dependencies.",
+      "They rid the system of outdated configurations."
+    ]
+  },
+  {
+    "word": "Rushes",
+    "meanings": [
+      "prisas",
+      "se apresura"
+    ],
+    "examples": [
+      "The developer rushes to fix the bug before the release.",
+      "She rushes through the code review without checking edge cases.",
+      "He rushes to deploy the hotfix to production."
+    ]
+  },
+  {
+    "word": "Saved",
+    "meanings": [
+      "guardado",
+      "salvado"
+    ],
+    "examples": [
+      "The changes were saved to the local repository.",
+      "The auto-save feature saved her from losing hours of work.",
+      "The database connection was saved for reuse."
+    ]
+  },
+  {
+    "word": "Shinier",
+    "meanings": [
+      "más brillante",
+      "más lustroso"
+    ],
+    "examples": [
+      "The new UI has a shinier design than the old version.",
+      "The shinier monitor reduces eye strain during coding.",
+      "The shinier logo on the landing page increased conversions."
+    ]
+  },
+  {
+    "word": "Sign up",
+    "meanings": [
+      "registrarse",
+      "suscribirse"
+    ],
+    "examples": [
+      "New users can sign up with their GitHub account.",
+      "The sign up form collects email and password.",
+      "We added OAuth so developers can sign up faster."
+    ]
+  },
+  {
+    "word": "slouches",
+    "meanings": [
+      "se encorva",
+      "postura relajada"
+    ],
+    "examples": [
+      "The intern slouches at the desk during standup meetings.",
+      "Bad ergonomics makes the team slouch over their keyboards.",
+      "A developer who slouches may develop chronic back pain."
+    ]
+  },
+  {
+    "word": "spent",
+    "meanings": [
+      "gastado",
+      "invertido (tiempo)"
+    ],
+    "examples": [
+      "The team spent three sprints on the migration.",
+      "We spent too much time on premature optimization.",
+      "The API quota was spent by the end of the week."
+    ]
+  },
+  {
+    "word": "stood",
+    "meanings": [
+      "se mantuvo de pie",
+      "resistió"
+    ],
+    "examples": [
+      "The legacy system still stood after the cyberattack.",
+      "The architecture stood the test of scale.",
+      "The prototype stood on its own without external dependencies."
+    ]
+  },
+  {
+    "word": "straight",
+    "meanings": [
+      "directo",
+      "recto"
+    ],
+    "examples": [
+      "Go straight to the root cause of the bug.",
+      "The deployment pipeline runs straight to production.",
+      "A straight comparison of frameworks shows clear tradeoffs."
+    ]
+  },
+  {
+    "word": "street vendor",
+    "meanings": [
+      "vendedor ambulante",
+      "comerciante callejero"
+    ],
+    "examples": [
+      "The street vendor app connects local sellers with customers.",
+      "Street vendor transactions are now tracked via mobile payments.",
+      "Building a POS system for a street vendor requires offline support."
+    ]
+  },
+  {
+    "word": "Suddenly",
+    "meanings": [
+      "de repente",
+      "inesperadamente"
+    ],
+    "examples": [
+      "Suddenly the server started returning 500 errors.",
+      "Suddenly all connected devices lost sync.",
+      "Suddenly the build pipeline broke after a dependency update."
+    ]
+  },
+  {
+    "word": "taught",
+    "meanings": [
+      "enseñó",
+      "instruyó"
+    ],
+    "examples": [
+      "She taught the team how to use Kubernetes effectively.",
+      "The mentor taught him clean code principles.",
+      "Online courses taught millions to code during the pandemic."
+    ]
+  },
+  {
+    "word": "Then",
+    "meanings": [
+      "entonces",
+      "después"
+    ],
+    "examples": [
+      "Commit the changes, then push to the remote branch.",
+      "First deploy to staging, then to production.",
+      "Then refactor the module once tests pass."
+    ]
+  },
+  {
+    "word": "Thoughts",
+    "meanings": [
+      "pensamientos",
+      "ideas"
+    ],
+    "examples": [
+      "I have some thoughts on the new API design.",
+      "Share your thoughts in the code review comments.",
+      "The team exchanged thoughts on the architecture decision."
+    ]
+  },
+  {
+    "word": "toward",
+    "meanings": [
+      "hacia",
+      "con respecto a"
+    ],
+    "examples": [
+      "The roadmap leans toward a microservices approach.",
+      "We are moving toward full containerization.",
+      "The refactor is a step toward better scalability."
+    ]
+  },
+  {
+    "word": "Was going to",
+    "meanings": [
+      "iba a",
+      "tenía intención de"
+    ],
+    "examples": [
+      "I was going to refactor but the deadline moved up.",
+      "The service was going to be deprecated next quarter.",
+      "We were going to use REST but switched to GraphQL."
+    ]
+  },
+  {
+    "word": "Wave",
+    "meanings": [
+      "ola",
+      "señal (mano)"
+    ],
+    "examples": [
+      "A new wave of AI tools is transforming development.",
+      "The third wave of refactoring finally fixed the bug.",
+      "Wave goodbye to manual deployments with CI/CD."
+    ]
+  },
+  {
+    "word": "Waved",
+    "meanings": [
+      "agitó",
+      "señaló con la mano"
+    ],
+    "examples": [
+      "The developer waved off the feature request as out of scope.",
+      "She waved goodbye to the old monolith.",
+      "The PM waved through the hotfix without a full review."
+    ]
+  },
+  {
+    "word": "whatever",
+    "meanings": [
+      "lo que sea",
+      "sin importar qué"
+    ],
+    "examples": [
+      "Use whatever framework fits the project requirements.",
+      "Whatever the error, the logger captures it.",
+      "Deploy to whatever environment passes the smoke tests."
+    ]
+  },
+  {
+    "word": "Wide",
+    "meanings": [
+      "amplio",
+      "ancho"
+    ],
+    "examples": [
+      "The API has a wide range of filtering options.",
+      "A wide consensus led to the new coding standard.",
+      "The wide adoption of React simplified hiring."
+    ]
+  },
+  {
+    "word": "Won",
+    "meanings": [
+      "ganó",
+      "logró"
+    ],
+    "examples": [
+      "The open-source project won the community award.",
+      "The startup won the first major enterprise client.",
+      "Our team won the internal hackathon with a GraphQL API."
+    ]
+  }
+]
