@@ -1,13 +1,14 @@
 ---
 name: english-vocab
-description: Activar cada vez que el usuario escriba un mensaje en inglés (o mezcle inglés con español). Ejecuta play_vocab.sh, que elige una palabra al azar de words.json y la muestra en pantalla Y la reproduce en voz alta al mismo tiempo (inglés + traducción en español + tres oraciones de ejemplo).
+description: Activar SIEMPRE que el usuario escriba la palabra exacta "REPINGLES" (sin importar mayúsculas/minúsculas ni si viene sola o dentro de una frase) — trigger explícito, activación inmediata sin ambigüedad. También activar cuando el usuario escriba un mensaje en inglés (o mezcle inglés con español), como trigger contextual secundario. Ejecuta play_vocab.sh, que elige una palabra al azar de words.json y la muestra en pantalla Y la reproduce en voz alta al mismo tiempo (inglés + traducción en español + tres oraciones de ejemplo).
 ---
 
 # English Vocab Booster (audio + texto)
 
 ## Cuándo activarse
-- El usuario escribe una oración o frase en inglés dentro del chat (aunque sea corta).
-- No se activa si el mensaje es 100% código, comandos de terminal, o texto técnico sin intención comunicativa (ej: "npm install").
+- **Trigger explícito (prioritario):** el usuario escribe la palabra "REPINGLES" en cualquier parte de su mensaje → activar de inmediato, sin evaluar contexto ni idioma del resto del mensaje.
+- **Trigger contextual (secundario):** el usuario escribe una oración o frase en inglés dentro del chat (aunque sea corta).
+- No se activa por el trigger contextual si el mensaje es 100% código, comandos de terminal, o texto técnico sin intención comunicativa (ej: "npm install"). El trigger explícito ("REPINGLES") siempre activa, sin excepción.
 
 ## Qué hacer
 Ejecutar el script de esta misma carpeta:
