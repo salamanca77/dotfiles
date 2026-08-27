@@ -7,7 +7,6 @@ SRC="$SCRIPT_DIR/skills"
 DESTINATIONS=(
     "$HOME/.agents/skills"
     "$HOME/.codex/skills"
-    "$HOME/.config/opencode/skills"
 )
 
 for DEST in "${DESTINATIONS[@]}"; do

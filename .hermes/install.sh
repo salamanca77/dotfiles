@@ -5,9 +5,7 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SRC="$SCRIPT_DIR/skills"
 DESTINATIONS=(
-    "$HOME/.agents/skills"
-    "$HOME/.codex/skills"
-    "$HOME/.config/opencode/skills"
+    "$HOME/.hermes/skills"
 )
 
 for DEST in "${DESTINATIONS[@]}"; do
